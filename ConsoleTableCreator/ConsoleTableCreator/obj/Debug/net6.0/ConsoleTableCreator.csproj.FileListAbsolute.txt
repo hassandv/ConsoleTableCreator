@@ -1,0 +1,15 @@
+D:\Hassan_Nemati\PRJOutOfTime\TABLCREATOR\ConsoleTableCreator\ConsoleTableCreator\obj\Debug\net6.0\ConsoleTableCreator.csproj.AssemblyReference.cache
+D:\Hassan_Nemati\PRJOutOfTime\TABLCREATOR\ConsoleTableCreator\ConsoleTableCreator\obj\Debug\net6.0\ConsoleTableCreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hassan_Nemati\PRJOutOfTime\TABLCREATOR\ConsoleTableCreator\ConsoleTableCreator\obj\Debug\net6.0\ConsoleTableCreator.AssemblyInfoInputs.cache
+D:\Hassan_Nemati\PRJOutOfTime\TABLCREATOR\ConsoleTableCreator\ConsoleTableCreator\obj\Debug\net6.0\ConsoleTableCreator.AssemblyInfo.cs
+D:\Hassan_Nemati\PRJOutOfTime\TABLCREATOR\ConsoleTableCreator\ConsoleTableCreator\obj\Debug\net6.0\ConsoleTableCreator.csproj.CoreCompileInputs.cache
+D:\Hassan_Nemati\PRJOutOfTime\TABLCREATOR\ConsoleTableCreator\ConsoleTableCreator\bin\Debug\net6.0\ConsoleTableCreator.exe
+D:\Hassan_Nemati\PRJOutOfTime\TABLCREATOR\ConsoleTableCreator\ConsoleTableCreator\bin\Debug\net6.0\ConsoleTableCreator.deps.json
+D:\Hassan_Nemati\PRJOutOfTime\TABLCREATOR\ConsoleTableCreator\ConsoleTableCreator\bin\Debug\net6.0\ConsoleTableCreator.runtimeconfig.json
+D:\Hassan_Nemati\PRJOutOfTime\TABLCREATOR\ConsoleTableCreator\ConsoleTableCreator\bin\Debug\net6.0\ConsoleTableCreator.dll
+D:\Hassan_Nemati\PRJOutOfTime\TABLCREATOR\ConsoleTableCreator\ConsoleTableCreator\bin\Debug\net6.0\ConsoleTableCreator.pdb
+D:\Hassan_Nemati\PRJOutOfTime\TABLCREATOR\ConsoleTableCreator\ConsoleTableCreator\obj\Debug\net6.0\ConsoleTableCreator.dll
+D:\Hassan_Nemati\PRJOutOfTime\TABLCREATOR\ConsoleTableCreator\ConsoleTableCreator\obj\Debug\net6.0\refint\ConsoleTableCreator.dll
+D:\Hassan_Nemati\PRJOutOfTime\TABLCREATOR\ConsoleTableCreator\ConsoleTableCreator\obj\Debug\net6.0\ConsoleTableCreator.pdb
+D:\Hassan_Nemati\PRJOutOfTime\TABLCREATOR\ConsoleTableCreator\ConsoleTableCreator\obj\Debug\net6.0\ConsoleTableCreator.genruntimeconfig.cache
+D:\Hassan_Nemati\PRJOutOfTime\TABLCREATOR\ConsoleTableCreator\ConsoleTableCreator\obj\Debug\net6.0\ref\ConsoleTableCreator.dll

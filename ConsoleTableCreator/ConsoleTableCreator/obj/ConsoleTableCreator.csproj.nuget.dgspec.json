@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Hassan_Nemati\\PRJOutOfTime\\TABLCREATOR\\ConsoleTableCreator\\ConsoleTableCreator\\ConsoleTableCreator.csproj": {}
+  },
+  "projects": {
+    "D:\\Hassan_Nemati\\PRJOutOfTime\\TABLCREATOR\\ConsoleTableCreator\\ConsoleTableCreator\\ConsoleTableCreator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Hassan_Nemati\\PRJOutOfTime\\TABLCREATOR\\ConsoleTableCreator\\ConsoleTableCreator\\ConsoleTableCreator.csproj",
+        "projectName": "ConsoleTableCreator",
+        "projectPath": "D:\\Hassan_Nemati\\PRJOutOfTime\\TABLCREATOR\\ConsoleTableCreator\\ConsoleTableCreator\\ConsoleTableCreator.csproj",
+        "packagesPath": "C:\\Users\\HNemati\\.nuget\\packages\\",
+        "outputPath": "D:\\Hassan_Nemati\\PRJOutOfTime\\TABLCREATOR\\ConsoleTableCreator\\ConsoleTableCreator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HNemati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "D:\\Hassan_Nemati\\MapSource\\DemBiz\\CoreServer\\ReferencesLibrary\\Sti_nupkg": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
